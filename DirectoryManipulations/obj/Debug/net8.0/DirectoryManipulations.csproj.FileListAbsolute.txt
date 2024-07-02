@@ -1,0 +1,14 @@
+C:\Users\48571\source\repos\DirectoryManipulations\bin\Debug\net8.0\DirectoryManipulations.exe
+C:\Users\48571\source\repos\DirectoryManipulations\bin\Debug\net8.0\DirectoryManipulations.deps.json
+C:\Users\48571\source\repos\DirectoryManipulations\bin\Debug\net8.0\DirectoryManipulations.runtimeconfig.json
+C:\Users\48571\source\repos\DirectoryManipulations\bin\Debug\net8.0\DirectoryManipulations.dll
+C:\Users\48571\source\repos\DirectoryManipulations\bin\Debug\net8.0\DirectoryManipulations.pdb
+C:\Users\48571\source\repos\DirectoryManipulations\obj\Debug\net8.0\DirectoryManipulations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48571\source\repos\DirectoryManipulations\obj\Debug\net8.0\DirectoryManipulations.AssemblyInfoInputs.cache
+C:\Users\48571\source\repos\DirectoryManipulations\obj\Debug\net8.0\DirectoryManipulations.AssemblyInfo.cs
+C:\Users\48571\source\repos\DirectoryManipulations\obj\Debug\net8.0\DirectoryManipulations.csproj.CoreCompileInputs.cache
+C:\Users\48571\source\repos\DirectoryManipulations\obj\Debug\net8.0\DirectoryManipulations.dll
+C:\Users\48571\source\repos\DirectoryManipulations\obj\Debug\net8.0\refint\DirectoryManipulations.dll
+C:\Users\48571\source\repos\DirectoryManipulations\obj\Debug\net8.0\DirectoryManipulations.pdb
+C:\Users\48571\source\repos\DirectoryManipulations\obj\Debug\net8.0\DirectoryManipulations.genruntimeconfig.cache
+C:\Users\48571\source\repos\DirectoryManipulations\obj\Debug\net8.0\ref\DirectoryManipulations.dll
